@@ -1,1 +1,2 @@
 I'm going to be a qualified tester.
+I learned Cypress, Postman, and Jetkins.
